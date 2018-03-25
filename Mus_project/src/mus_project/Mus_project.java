@@ -15,7 +15,7 @@ public class Mus_project {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println ("Salam alaykoum, je suis un champion");
+        System.out.println ("Salam alaykoum, je suis un champion je suis un vrai champion");
     }
     
 }
