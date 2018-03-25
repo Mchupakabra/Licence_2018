@@ -18,9 +18,4 @@ public class Mus_project {
         System.out.println ("Salam alaykoum, je suis un champion");
     }
     
-    void Affichage ()
-    {
-        System.out.println("je suis une légende");
-    }
-    
 }
